@@ -86,3 +86,6 @@ KPI-driven player selection using data visualization
 
 End-to-end project workflow suitable for portfolio presentation or interview discussion
 
+![Screenshot 2025-07-06 173034](https://github.com/user-attachments/assets/44dcc643-f408-48f1-83ca-5a8a7a6f497e)
+![Screenshot 2025-07-06 173138](https://github.com/user-attachments/assets/bf1656e2-828c-457f-8f9d-703b5aafebaa)
+![Screenshot 2025-07-06 173110](https://github.com/user-attachments/assets/0fcd4450-97d3-41aa-ae1f-8d2c625aeeca)
